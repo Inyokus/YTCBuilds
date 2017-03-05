@@ -109,7 +109,7 @@
 	if (noArgs) {
 		fn += "()";
 	} else {
-		fn += "(true, 0, true, 2.1.1-297-g9b5e85f
+		fn += "(true, 0, true, 2.1.1-297-gafc7429
 )";
 	}
     script.appendChild(document.createTextNode(fn + ";\n//# sourceURL=" + filename));
